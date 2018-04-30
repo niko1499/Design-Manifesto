@@ -1,10 +1,36 @@
-## Welcome to GitHub Pages
+## Design Manifesto
+
+
+## HCI Portfolio 
+
+- [Good Design, Bad Design](https://medium.com/@nxgamarra/good-design-bad-design-ab062df17c6b)
+- [Design for Others](https://medium.com/@cormac.collier/design-for-feedback-c212af828ccc)
+- [Design for Understanding](https://medium.com/@tiffanykayo96/design-for-understanding-billionaire-data-b04b9f6ba220)
+- [Design for Wellbeing](https://medium.com/@nxgamarra/design-for-tension-c81434e5096c)
+- [Design for Another World](https://niko1499.github.io/Design-Manifesto/)
+- [Design for recursion](https://niko1499.github.io/Design-Manifesto/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/niko1499/Design-Manifesto/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
