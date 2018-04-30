@@ -7,19 +7,7 @@ I have a passion for a diversity of DIY projects including everything from woodw
 
 #Design 
 
-How did the design process impact the decisions you made? What were the most valuable pieces? Were there limitations to the design process that you encountered?
-
-The design process for this class helped the final product of my projects be more refined and well thought out. This is because sticking to the design process early forces myself and my teams to iron out the pros and cons of various possible implementations early. One of the most useful tools in the process was the use of "Wizard of Oz" style testing.  These tests allowed us to determine if users would have the desired responce early in or development cycle. In our [Design for Tension](https://medium.com/@nxgamarra/design-for-tension-c81434e5096c) project doing these tests alerted us to sever avenues for improving our chat bot. If they did not we still had plenty of time to implement changes. I would say that a limitation of strictly adhering to the design process is that it made people feel they needed to do surpurflous actions or drawings to backward justify the obvious choice. 
-
-
-
-How did this differ across different modalities? For example, maybe user testing with your prototypes was more illuminating in one modality than another. Maybe the true capabilities of the technology constrained you more in one modality than another.
-
-
-
-When did expectations not meet reality?
-
-Were there some topic areas that were more challenging than others? What did you learn from this process?
+The design process for this class helped the final product of my projects be more refined and well thought out. This is because sticking to the design process early forces myself and my teams to iron out the pros and cons of various possible implementations early. One of the most useful tools in the process was the use of "Wizard of Oz" style testing. These tests allowed us to determine if users would have the desired responce early in or development cycle. In our [Design for Tension](https://medium.com/@nxgamarra/design-for-tension-c81434e5096c) project doing these tests alerted us to sever avenues for improving our chat bot. If they did not we still had plenty of time to implement changes. I would say that a limitation of strictly adhering to the design process is that it made people feel they needed to do surpurflous actions or drawings to backward justify the obvious choice. 
 
 The most challenging topic in the course was using Affecteva for the [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7) project. This project was a bit above my expierence levle in terms of programming for websites. However I feel I learned a lot by being exposed to this topic and feel much more comfortable around jQuery.
 
@@ -31,7 +19,7 @@ Here is a portfolio of all of the Medium posts for the projects I worked on this
 
 If I were to choose one of the projects as the best I would say it my teams Design for Wellbeing. The reason for this is that it was the most technically complicated project in terms of coding and it worked fairly well. To try out the projecte click [here](https://brcoll.github.io/DesignForWellbeing/). The purpose of this project was to encourage adoptions of pets and inform people about health benifits of pet wonership. This was made into a short emotional response quiz game where the users facial reaction to photos of cats or dogs would be used to determine if the person was a cat or dog person. 
 
-#[Good Design, Bad Design](https://medium.com/@nxgamarra/good-design-bad-design-ab062df17c6b)
+- [Good Design, Bad Design](https://medium.com/@nxgamarra/good-design-bad-design-ab062df17c6b)
 
 ![image](https://cdn-images-1.medium.com/max/1100/1*nYVx5xwpQhN1douGr0TNBA.png)
 
@@ -57,7 +45,7 @@ If I were to choose one of the projects as the best I would say it my teams Desi
 
 - [Design for recursion](https://niko1499.github.io/Design-Manifesto/)
 
-![image](https://raw.githubusercontent.com/niko1499/Design-Manifesto/master/rec.png)
+![image](https://raw.githubusercontent.com/niko1499/Design-Manifesto/master/rec2.png)
 
 
 
