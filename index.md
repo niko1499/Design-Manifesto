@@ -9,11 +9,17 @@ Here is a portfolio of all of the Medium posts for the projects I worked on this
 - [Good Design, Bad Design](https://medium.com/@nxgamarra/good-design-bad-design-ab062df17c6b)
 ![image](https://cdn-images-1.medium.com/max/1100/1*nYVx5xwpQhN1douGr0TNBA.png)
 - [Design for Others](https://medium.com/@cormac.collier/design-for-feedback-c212af828ccc)
+![image](https://cdn-images-1.medium.com/max/440/0*JFqXXOjzzLyilelS.)
 - [Design for Understanding](https://medium.com/@tiffanykayo96/design-for-understanding-billionaire-data-b04b9f6ba220)
+![image](https://cdn-images-1.medium.com/max/1100/1*4zY-w2ANF6-_k4W5ugnLYw.png)
 - [Design for Tension](https://medium.com/@nxgamarra/design-for-tension-c81434e5096c)
+![image](https://cdn-images-1.medium.com/max/880/1*58TTNqsCFfZFZZnP77n3zQ.pnglS.)
 - [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7)
+![video](https://youtu.be/jjCbuyv5IR8)
 - [Design for Another World](https://niko1499.github.io/Design-Manifesto/)
+![image](https://cdn-images-1.medium.com/max/440/0*JFqXXOjzzLyilelS.)
 - [Design for recursion](https://niko1499.github.io/Design-Manifesto/)
+![image](https://cdn-images-1.medium.com/max/440/0*JFqXXOjzzLyilelS.)
 
 
 
