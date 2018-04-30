@@ -20,7 +20,7 @@ Here is a portfolio of all of the Medium posts for the projects I worked on this
 
 - [Design for Tension](https://medium.com/@nxgamarra/design-for-tension-c81434e5096c)
 
-![image](https://cdn-images-1.medium.com/max/880/1*58TTNqsCFfZFZZnP77n3zQ.pnglS.)
+![image](https://cdn-images-1.medium.com/max/880/1*58TTNqsCFfZFZZnP77n3zQ.png)
 
 - [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7)
 
