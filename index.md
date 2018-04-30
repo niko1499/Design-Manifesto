@@ -1,5 +1,28 @@
 ## Design Manifesto
 
+#About
+Hello, I am Nikolas Gamarra. I am currently a Junior at Worcester Polytechnic Institute (WPI), where I am majoring in Robotic Engineering with minors Computer Science and Mechanical Engineering. At WPI the Robotic Engineering program is a combination of Mechanical Engineering, Electrical Engineering, and Computer Science.
+
+I have a passion for a diversity of DIY projects including everything from woodworking and furniture building to designing and programming robots. A common theme for my projects is a focus on aesthetically pleasing objects with unique functionality. 
+
+#Design 
+
+How did the design process impact the decisions you made? What were the most valuable pieces? Were there limitations to the design process that you encountered?
+
+The design process for this class helped the final product of my projects be more refined and well thought out. This is because sticking to the design process early forces myself and my teams to iron out the pros and cons of various possible implementations early. One of the most useful tools in the process was the use of "Wizard of Oz" style testing.  These tests allowed us to determine if users would have the desired responce early in or development cycle. In our [Design for Tension](https://medium.com/@nxgamarra/design-for-tension-c81434e5096c) project doing these tests alerted us to sever avenues for improving our chat bot. If they did not we still had plenty of time to implement changes. I would say that a limitation of strictly adhering to the design process is that it made people feel they needed to do surpurflous actions or drawings to backward justify the obvious choice. 
+
+
+
+How did this differ across different modalities? For example, maybe user testing with your prototypes was more illuminating in one modality than another. Maybe the true capabilities of the technology constrained you more in one modality than another.
+
+
+
+When did expectations not meet reality?
+
+Were there some topic areas that were more challenging than others? What did you learn from this process?
+
+The most challenging topic in the course was using Affecteva for the [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7) project. This project was a bit above my expierence levle in terms of programming for websites. However I feel I learned a lot by being exposed to this topic and feel much more comfortable around jQuery.
+
 
 
 ## HCI Portfolio 
@@ -26,7 +49,7 @@ If I were to choose one of the projects as the best I would say it my teams Desi
 
 - [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7)
 
-[VIDEO](https://youtu.be/jjCbuyv5IR8)
+![image](https://raw.githubusercontent.com/niko1499/Design-Manifesto/master/catdog.png)
 
 - [Design for Another World](https://niko1499.github.io/Design-Manifesto/)
 
