@@ -2,11 +2,12 @@
 
 
 ## HCI Portfolio 
-
+Here is a portfolio of all of the Medium posts for the projects I worked on this term. If I were to choose one of the projects as the best I would say it my teams Design for Wellbeing. The reason for this is that it was the most technically complicated project in terms of coding and it worked fairly well. To try out the projecte click [here](
 - [Good Design, Bad Design](https://medium.com/@nxgamarra/good-design-bad-design-ab062df17c6b)
 - [Design for Others](https://medium.com/@cormac.collier/design-for-feedback-c212af828ccc)
 - [Design for Understanding](https://medium.com/@tiffanykayo96/design-for-understanding-billionaire-data-b04b9f6ba220)
-- [Design for Wellbeing](https://medium.com/@nxgamarra/design-for-tension-c81434e5096c)
+- [Design for Tension](https://medium.com/@nxgamarra/design-for-tension-c81434e5096c)
+- [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7)
 - [Design for Another World](https://niko1499.github.io/Design-Manifesto/)
 - [Design for recursion](https://niko1499.github.io/Design-Manifesto/)
 
