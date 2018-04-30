@@ -24,15 +24,15 @@ Here is a portfolio of all of the Medium posts for the projects I worked on this
 
 - [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7)
 
-![video](https://youtu.be/jjCbuyv5IR8)
+[VIDEO](https://youtu.be/jjCbuyv5IR8)
 
 - [Design for Another World](https://niko1499.github.io/Design-Manifesto/)
 
-![image](https://cdn-images-1.medium.com/max/440/0*JFqXXOjzzLyilelS.)
+![image]https://cdn-images-1.medium.com/max/1100/1*nYVx5xwpQhN1douGr0TNBA.png)
 
 - [Design for recursion](https://niko1499.github.io/Design-Manifesto/)
 
-![image](https://cdn-images-1.medium.com/max/440/0*JFqXXOjzzLyilelS.)
+![image](https://cdn-images-1.medium.com/max/1100/1*nYVx5xwpQhN1douGr0TNBA.png)
 
 
 
