@@ -2,7 +2,9 @@
 
 
 ## HCI Portfolio 
-Here is a portfolio of all of the Medium posts for the projects I worked on this term. If I were to choose one of the projects as the best I would say it my teams Design for Wellbeing. The reason for this is that it was the most technically complicated project in terms of coding and it worked fairly well. To try out the projecte click [here](
+
+Here is a portfolio of all of the Medium posts for the projects I worked on this term. If I were to choose one of the projects as the best I would say it my teams Design for Wellbeing. The reason for this is that it was the most technically complicated project in terms of coding and it worked fairly well. To try out the projecte click [here](https://brcoll.github.io/DesignForWellbeing/). The purpose of this project was to encourage adoptions of pets and inform people about health benifits of pet wonership. This was made into a short emotional response quiz game where the users facial reaction to photos of cats or dogs would be used to determine if the person was a cat or dog person. 
+
 - [Good Design, Bad Design](https://medium.com/@nxgamarra/good-design-bad-design-ab062df17c6b)
 - [Design for Others](https://medium.com/@cormac.collier/design-for-feedback-c212af828ccc)
 - [Design for Understanding](https://medium.com/@tiffanykayo96/design-for-understanding-billionaire-data-b04b9f6ba220)
@@ -28,37 +30,4 @@ Here is a portfolio of all of the Medium posts for the projects I worked on this
 
 
 
-You can use the [editor on GitHub](https://github.com/niko1499/Design-Manifesto/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/niko1499/Design-Manifesto/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
