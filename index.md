@@ -1,11 +1,11 @@
 # Design Manifesto
 
-### About
+### About Me
 Hello, I am Nikolas Gamarra. I am currently a Junior at Worcester Polytechnic Institute (WPI), where I am majoring in Robotic Engineering with minors Computer Science and Mechanical Engineering. At WPI the Robotic Engineering program is a combination of Mechanical Engineering, Electrical Engineering, and Computer Science.
 
 I have a passion for a diversity of DIY projects including everything from woodworking and furniture building to designing and programming robots. A common theme for my projects is a focus on aesthetically pleasing objects with unique functionality. 
 
-### Design 
+### Design Expierences
 
 The design process for this class helped the final product of my projects be more refined and well thought out. This is because sticking to the design process early forces myself and my teams to iron out the pros and cons of various possible implementations early. One of the most useful modes of the design process was the “Wizard of Oz” Testing. These tests allowed for constructive feedback on the final product very early into the development cycle. Thus preventing many wasted hours if there was a major flaw with what we wanted to do that we caught early.  I would say that a limitation of strictly adhering to the design process is that it made people feel they needed to do superfluous actions or drawings to backward justify the obvious choice. 
 
@@ -34,10 +34,9 @@ When making a prototype it is important to know when it is good enough. Spending
 
 # HCI Portfolio 
 
-Here is a portfolio of all of the Medium posts for the projects I worked on this term.  Additionally each link has a image or video below it of part of the project I most directly worked on. 
+Here is a portfolio of all of the Medium posts for the projects I worked on this term.  Additionally each link has a image below it of part of the project I most directly worked on. 
 
 If I were to choose one of the projects as the best I would say it my teams [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7). The reason for this is that it was the most technically complicated project in terms of coding and it worked fairly well. To try out the projecte click [here](https://brcoll.github.io/DesignForWellbeing/). The purpose of this project was to encourage adoptions of pets and inform people about health benifits of pet wonership. This was made into a short emotional response quiz game where the users facial reaction to photos of cats or dogs would be used to determine if the person was a cat or dog person.
-
 
 
 ## [Good Design, Bad Design](https://medium.com/@nxgamarra/good-design-bad-design-ab062df17c6b)
