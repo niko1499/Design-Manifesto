@@ -47,7 +47,7 @@ $type-size-8
 
 - [Design for recursion](https://niko1499.github.io/Design-Manifesto/)
 
-![image](https://raw.githubusercontent.com/niko1499/Design-Manifesto/master/rec2.png)
+![image](https://raw.githubusercontent.com/niko1499/Design-Manifesto/master/rec3.png)
 
 
 
