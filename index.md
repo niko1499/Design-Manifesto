@@ -43,7 +43,7 @@ $type-size-8
 
 - [Design for Another World](https://raw.githubusercontent.com/niko1499/Design-Manifesto/master/world.png)
 
-![image]https://cdn-images-1.medium.com/max/1100/1*nYVx5xwpQhN1douGr0TNBA.png)
+![image](https://cdn-images-1.medium.com/max/1100/1*nYVx5xwpQhN1douGr0TNBA.png)
 
 - [Design for recursion](https://niko1499.github.io/Design-Manifesto/)
 
