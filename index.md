@@ -59,7 +59,7 @@ If I were to choose one of the projects as the best I would say it my teams [Des
 
 ![image](https://raw.githubusercontent.com/niko1499/Design-Manifesto/master/catdog.png)
 
-## [Design for Another World](https://raw.githubusercontent.com/niko1499/Design-Manifesto/master/world.png)
+## [Design for Another World](https://medium.com/@lukeypsilantis/design-for-another-world-6487db2ae039)
 
 ![image](https://raw.githubusercontent.com/niko1499/Design-Manifesto/master/world.png)
 
