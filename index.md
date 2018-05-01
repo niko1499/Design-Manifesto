@@ -1,4 +1,4 @@
-## Design Manifesto
+### Design Manifesto
 
 # About
 Hello, I am Nikolas Gamarra. I am currently a Junior at Worcester Polytechnic Institute (WPI), where I am majoring in Robotic Engineering with minors Computer Science and Mechanical Engineering. At WPI the Robotic Engineering program is a combination of Mechanical Engineering, Electrical Engineering, and Computer Science.
@@ -11,7 +11,7 @@ The design process for this class helped the final product of my projects be mor
 
 The most challenging topic in the course was using Affecteva for the [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7) project. This project was a bit above my expierence levle in terms of programming for websites. However I feel I learned a lot by being exposed to this topic and feel much more comfortable around jQuery.
 
-## HCI Portfolio 
+### HCI Portfolio 
 
 Here is a portfolio of all of the Medium posts for the projects I worked on this term.  Additionally each link has a image or video below it of part of the project I most directly worked on. 
 
