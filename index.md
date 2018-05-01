@@ -65,7 +65,7 @@ If I were to choose one of the projects as the best I would say it my teams [Des
 
 ## [Design for recursion](https://niko1499.github.io/Design-Manifesto/)
 
-![image](https://raw.githubusercontent.com/niko1499/Design-Manifesto/master/rec7.png)
+![image](https://raw.githubusercontent.com/niko1499/Design-Manifesto/master/rec8.png)
 
 
 
