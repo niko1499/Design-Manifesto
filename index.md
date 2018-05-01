@@ -11,11 +11,13 @@ The design process for this class helped the final product of my projects be mor
 
 The most challenging topic in the course was using Affecteva for the [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7) project. This project was a bit above my expierence levle in terms of programming for websites. However I feel I learned a lot by being exposed to this topic and feel much more comfortable around jQuery.
 
+One of my biggest take aways from the reading for this course was how end users can often itentify the symptom instead of the problem when describing their troubles interacting with a computer. Or even worse they may suggest the solution to their problem but it isn't the best solution, just one they are fimilar with. It is important for designers to be able to understand the diference between these two things. Finding the route cause of the problem can often result in the exploration of new ways to solve the problem that end users may never think to ask for. 
+
 # HCI Portfolio 
 
 Here is a portfolio of all of the Medium posts for the projects I worked on this term.  Additionally each link has a image or video below it of part of the project I most directly worked on. 
 
-If I were to choose one of the projects as the best I would say it my teams Design for Wellbeing. The reason for this is that it was the most technically complicated project in terms of coding and it worked fairly well. To try out the projecte click [here](https://brcoll.github.io/DesignForWellbeing/). The purpose of this project was to encourage adoptions of pets and inform people about health benifits of pet wonership. This was made into a short emotional response quiz game where the users facial reaction to photos of cats or dogs would be used to determine if the person was a cat or dog person. 
+If I were to choose one of the projects as the best I would say it my teams [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7). The reason for this is that it was the most technically complicated project in terms of coding and it worked fairly well. To try out the projecte click [here](https://brcoll.github.io/DesignForWellbeing/). The purpose of this project was to encourage adoptions of pets and inform people about health benifits of pet wonership. This was made into a short emotional response quiz game where the users facial reaction to photos of cats or dogs would be used to determine if the person was a cat or dog person.
 
 
 
