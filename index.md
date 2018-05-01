@@ -19,6 +19,8 @@ Here is a portfolio of all of the Medium posts for the projects I worked on this
 
 If I were to choose one of the projects as the best I would say it my teams Design for Wellbeing. The reason for this is that it was the most technically complicated project in terms of coding and it worked fairly well. To try out the projecte click [here](https://brcoll.github.io/DesignForWellbeing/). The purpose of this project was to encourage adoptions of pets and inform people about health benifits of pet wonership. This was made into a short emotional response quiz game where the users facial reaction to photos of cats or dogs would be used to determine if the person was a cat or dog person. 
 
+$type-size-8  
+
 - [Good Design, Bad Design](https://medium.com/@nxgamarra/good-design-bad-design-ab062df17c6b)
 
 ![image](https://cdn-images-1.medium.com/max/1100/1*nYVx5xwpQhN1douGr0TNBA.png)
@@ -39,7 +41,7 @@ If I were to choose one of the projects as the best I would say it my teams Desi
 
 ![image](https://raw.githubusercontent.com/niko1499/Design-Manifesto/master/catdog.png)
 
-- [Design for Another World](https://niko1499.github.io/Design-Manifesto/)
+- [Design for Another World](https://raw.githubusercontent.com/niko1499/Design-Manifesto/master/world.png)
 
 ![image]https://cdn-images-1.medium.com/max/1100/1*nYVx5xwpQhN1douGr0TNBA.png)
 
