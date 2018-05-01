@@ -14,24 +14,19 @@ The most challenging topic in the course was using Affecteva for the [Design for
 
 # My Five Design Principles
 
-1. See past the users suggestions to the core problem. 
-
+- See past the users suggestions to the core problem.
 One of my biggest takeaways from the reading for this course was how end users can often identify the symptom instead of the problem when describing their troubles interacting with a computer. Or even worse they may suggest the solution to their problem but it isn't the best solution, just one they are familiar with. It is important for designers to be able to understand the difference between these two things. Finding the route cause of the problem can often result in the exploration of new ways to solve the problem that end users may never think to ask for. [Source: Why you should be prototyping - Rachel Binx](https://medium.com/@rachelbinx/why-you-should-be-prototyping-e4f7d55a6848)
 
-2. Test early. Test Often. 
-
+- Test early. Test Often. 
 One of the most useful tools in the process was the use of "Wizard of Oz" style testing. These tests allowed us to determine if users would have the desired response early in or development cycle. In our [Design for Tension](https://medium.com/@nxgamarra/design-for-tension-c81434e5096c) project doing these tests alerted us to sever avenues for improving our chat bot. If they did not we still had plenty of time to implement changes.
 
-3. There are no bad ideas until there are
-
+- There are no bad ideas until there are.
 This is in a way borrowed from every other time I have had a course teach brainstorming to me. The idea being while in the early stages of brainstorming no ideas should get shot down in order to avoid accidentally shooting down a good idea or to prevent a team member from feeling that their contribution isn't being taken seriously.
 
-4. Weight the cons then the pros
-
+- Weight the cons then the pros.
 After brainstorming is wrapping up some of the ideas will need to get eliminated. I believe it is important to go through the cons and then the pros. The reason for this is that people often have a strong emotional attachment to their favorite idea from a brainstorming session. Considering the cons first allows the group to take a more objective approach to eliminating options. After considering the cons the pros of an idea can be useful to break ties between options with similar flaws. 
 
-5. Know when to quit
-
+- Know when to quit.
 When making a prototype it is important to know when it is good enough. Spending too much time on something that was only ever mean to be a proof on concept can result in wasted time and energy. It is important to stop directly working on and improving your product periodically and ask yourself if it fulfills your needs for demonstrating the desired functionality. 
 [Sourcs: How to prototype -Andrew J. Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html)
 
@@ -72,24 +67,6 @@ If I were to choose one of the projects as the best I would say it my teams [Des
 ## [Design for recursion](https://niko1499.github.io/Design-Manifesto/)
 
 ![image](https://raw.githubusercontent.com/niko1499/Design-Manifesto/master/rec6.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
